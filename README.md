@@ -26,6 +26,7 @@ That usually means designing for the things demos skip: useful context, clear bo
     <td width="33%" valign="top">
       <h3>◌ Agent Lyra</h3>
       <p>A conversational layer for connecting domain expertise, agent skills, and real work.</p>
+      <p><a href="https://agentlyra.in">Visit AgentLyra →</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>↗ Lyra Workforce</h3>
@@ -33,9 +34,9 @@ That usually means designing for the things demos skip: useful context, clear bo
       <p><a href="https://workforce.agentlyra.in">Visit Workforce →</a></p>
     </td>
     <td width="33%" valign="top">
-      <h3>⌘ GraphScript</h3>
+      <h3>⌘ GraphSnip</h3>
       <p>Giving coding agents precise, graph-derived context—and measuring the token savings honestly.</p>
-      <p><a href="https://github.com/naubadnithinkumar/codegraf">Explore graphsnip →</a></p>
+      <p><a href="https://github.com/naubadnithinkumar/graphsnip">Explore graphsnip →</a></p>
     </td>
   </tr>
 </table>
