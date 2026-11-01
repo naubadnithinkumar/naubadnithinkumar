@@ -1,72 +1,45 @@
-<h1 align="center">Hi, I'm Nithin Naubad 👋</h1>
-
 <p align="center">
-  Principal Software Engineer at <a href="https://www.nisum.com/">Nisum</a> · Building practical AI products, agentic workflows, and developer tools
+  <img src="./assets/connected-systems-banner.png" alt="Connected systems visual" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naubadnithin/">LinkedIn</a> ·
-  <a href="https://github.com/naubadnithinkumar">GitHub</a> ·
-  <a href="https://workforce.lyra.in">Lyra Workforce</a>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=2800&pause=1100&color=167A8B&center=true&vCenter=true&width=760&lines=Building+AI+products+that+connect+context+to+action.;Making+agentic+systems+useful%2C+inspectable%2C+and+human-led." alt="Professional focus statement" />
 </p>
 
----
+### The kind of work I’m drawn to
 
-### Building useful systems at the intersection of AI, people, and code
+I build at the point where a promising AI capability becomes a dependable product.
 
-I’m a software engineer with 13+ years of experience spanning quality engineering, mobile, web, backend, and product development. Today, I’m focused on turning AI from a feature into a useful working system: grounded in real context, connected to specialized tools, and designed to help people move from question to action.
+That usually means designing for the things demos skip: useful context, clear boundaries, connected systems, and a person who can understand what happened and decide what happens next.
 
-- 🤖 Building **Agent Lyra** — a conversational layer for connected, domain-specific AI agents
-- 👥 Building **[Lyra Workforce](https://workforce.lyra.in)** — a talent and workforce workspace connected to Agent Lyra
-- 🧠 Exploring MCP, agent orchestration, context engineering, and human-centered AI interfaces
-- 🛠️ Sharing experiments, architecture lessons, and product evolution in public
+| I build for | What that looks like |
+|---|---|
+| **Context before cleverness** | Agents should understand the relevant system, not confidently guess around it. |
+| **Action with accountability** | Helpful workflows leave a trail people can inspect, adjust, and own. |
+| **Specialized products that connect** | A great workforce tool, finance tool, or developer tool should work together—not disappear into one giant platform. |
+| **Proof over theatre** | Measure the value, show the assumptions, and be honest about what the system can’t do. |
 
-### Featured work
+### In the workshop now
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>GraphScript / graphsnip</h3>
-      <p>
-        A graph-powered context layer for coding agents. It turns a repository into a navigable knowledge graph, returns task-relevant code under a token budget, and measures savings against an explicit baseline.
-      </p>
-      <p>
-        Built for <b>Codex</b>, <b>Claude Code</b>, and <b>GitHub Copilot</b>.
-      </p>
-      <a href="https://github.com/naubadnithinkumar/codegraf">Explore the repository →</a>
+    <td width="33%" valign="top">
+      <h3>◌ Agent Lyra</h3>
+      <p>A conversational layer for connecting domain expertise, agent skills, and real work.</p>
     </td>
-    <td width="50%">
-      <h3>Agent Lyra × Lyra Workforce</h3>
-      <p>
-        A connected-agent direction: Workforce context flows into conversation, where people can understand open roles and projects, create tasks, and carry decisions into scheduling.
-      </p>
-      <p>
-        The goal is not one giant app—it is specialized products working together through a useful conversational layer.
-      </p>
-      <a href="https://workforce.lyra.in">Visit Lyra Workforce →</a>
+    <td width="33%" valign="top">
+      <h3>↗ Lyra Workforce</h3>
+      <p>Exploring how talent, project, and task context can flow naturally into an AI-assisted workspace.</p>
+      <p><a href="https://workforce.agentlyra.in">Visit Workforce →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌘ GraphScript</h3>
+      <p>Giving coding agents precise, graph-derived context—and measuring the token savings honestly.</p>
+      <p><a href="https://github.com/naubadnithinkumar/codegraf">Explore graphsnip →</a></p>
     </td>
   </tr>
 </table>
 
-### What I care about
-
-```text
-Useful AI > impressive demos
-Grounded context > unsupported answers
-Connected products > isolated features
-Clear measurement > vague claims
-Learning in public > pretending to have it all figured out
-```
-
-### Current focus
-
-- Agent-to-product connections with MCP
-- Context-efficient coding workflows and developer tooling
-- Practical AI experiences that keep people in control
-- Building Agent Lyra and the Lyra Workforce ecosystem in public
-
----
-
 <p align="center">
-  <i>Still building. Still learning. Making the systems a little more useful each day.</i>
+  <sub>Building in public · Learning through prototypes · Turning “interesting” into “useful”</sub>
 </p>
